@@ -6,9 +6,7 @@ The dataset and code require to complete part 2 of the Water Module is found her
 **Members**
 
 Clare E Kane
-
 Alessandra L Rigo De Righi
-
 Raven T Langhorne
 
 **How to cite**

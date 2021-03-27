@@ -12,3 +12,5 @@ The dataset and code require to complete part 2 of the Water Module is found her
 **How to cite**
 
 **Data source**
+* JMP WASH Data
+* World Resources Institute

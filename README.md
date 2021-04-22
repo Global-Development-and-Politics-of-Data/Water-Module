@@ -12,8 +12,9 @@ Chapter 10 for Global Development: Poverty, Inequality, and the Politics of Data
 
 **Workflow**
 
-**Folder Structure**
+![ModuleWorkflow (2)](https://user-images.githubusercontent.com/60409478/115761080-90ba0080-a367-11eb-87dd-5c3f9d501489.jpg)
 
+**Folder Structure**
 
 
 **How to cite**

@@ -24,5 +24,5 @@ Chapter 10 for Global Development: Poverty, Inequality, and the Politics of Data
 * Chicago: Kane, Clare, Raven Langhorne, Alessandra R de Righi, Catherine Weaver, and Ji Ma. 2021. “Chapter 10 Water and Sanitation.” OSF. April 22. osf.io/e9dwn.
 
 **Data source**
-* JMP WASH Data
-* World Resources Institute
+* JMP WASH Data [Portal](https://washdata.org/data/household#!/)
+* World Resources Institute [Data](https://www.wri.org/data)

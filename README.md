@@ -17,6 +17,7 @@ Chapter 10 for Global Development: Poverty, Inequality, and the Politics of Data
 
 
 **How to cite**
+
 APA
 Kane, C., Langhorne, R., de Righi, A. R., Weaver, C., & Ma, J. (2021, April 22). Chapter 10 Water and Sanitation. Retrieved from osf.io/e9dwn
 

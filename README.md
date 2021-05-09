@@ -7,14 +7,8 @@ Chapter 10 for Global Development: Poverty, Inequality, and the Politics of Data
 * Raven Langhorne
 * Alessandra Rigo De Righi 
 
-
-**Useful Resources**
-
-**Workflow**
-
+**About**
 ![ModuleWorkflow (3)](https://user-images.githubusercontent.com/60409478/117586216-5af17780-b0dc-11eb-9460-5ca74f740f72.jpg)
-
-**Folder Structure**
 
 
 **How to cite**
@@ -26,3 +20,5 @@ Chapter 10 for Global Development: Poverty, Inequality, and the Politics of Data
 **Data source**
 * JMP WASH Data [Portal](https://washdata.org/data/household#!/)
 * World Resources Institute [Data](https://www.wri.org/data)
+
+**Useful Resources**

@@ -17,15 +17,16 @@ The data module uses data from the WHO / UNICEF Joint-Monitoring Programme (JMP)
 
 
 
+# License
+
+Open Science Framework [(OSF)](https://osf.io/e9dwn/?view_only=9a1cead8762540c787a33d1e1667cf5d)
+
+
 **How to cite**
 * APA: Kane, C., Langhorne, R., Rigo de Righi, A., Weaver, C., & Ma, J. (2021, April 22). Chapter 10 Water. Retrieved from osf.io/e9dwn
 * MLA: Kane, Clare et al. “Chapter 10 Water.” OSF, 22 Apr. 2021. Web.
 * Chicago: Kane, Clare, Raven Langhorne, Alessandra Rigo de Righi, Catherine Weaver, and Ji Ma. 2021. “Chapter 10 Water.” OSF. April 22. osf.io/e9dwn.
 
-**License**
-
-Open Science Framework [(OSF)](https://osf.io/e9dwn/?view_only=9a1cead8762540c787a33d1e1667cf5d)
-
-**Acknowledgements**
+# Acknowledgements
 
 Thank you to our colleagues in the Data for Development PRP and our leaders: Dr. Catherine Weaver, Dr. Ji Ma, and Janet McLaren.

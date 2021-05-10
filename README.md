@@ -24,7 +24,7 @@ The data module uses data from the WHO / UNICEF Joint-Monitoring Programme (JMP)
 
 **License**
 
-Open Science Framework (OSF)
+Open Science Framework [(OSF)](https://osf.io/e9dwn/?view_only=9a1cead8762540c787a33d1e1667cf5d)
 
 **Acknowledgements**
 

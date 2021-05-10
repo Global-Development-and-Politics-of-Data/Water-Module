@@ -18,9 +18,9 @@ The data module uses data from the WHO / UNICEF Joint-Monitoring Programme (JMP)
 
 
 **How to cite**
-* APA: Kane, C., Langhorne, R., de Righi, A. R., Weaver, C., & Ma, J. (2021, April 22). Chapter 10 Water and Sanitation. Retrieved from osf.io/e9dwn
-* MLA: Kane, Clare et al. “Chapter 10 Water and Sanitation.” OSF, 22 Apr. 2021. Web.
-* Chicago: Kane, Clare, Raven Langhorne, Alessandra R de Righi, Catherine Weaver, and Ji Ma. 2021. “Chapter 10 Water and Sanitation.” OSF. April 22. osf.io/e9dwn.
+* APA: Kane, C., Langhorne, R., de Righi, A. R., Weaver, C., & Ma, J. (2021, April 22). Chapter 10 Water. Retrieved from osf.io/e9dwn
+* MLA: Kane, Clare et al. “Chapter 10 Water.” OSF, 22 Apr. 2021. Web.
+* Chicago: Kane, Clare, Raven Langhorne, Alessandra R de Righi, Catherine Weaver, and Ji Ma. 2021. “Chapter 10 Water.” OSF. April 22. osf.io/e9dwn.
 
 **License**
 

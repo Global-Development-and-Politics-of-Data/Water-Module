@@ -11,11 +11,6 @@ The data module uses data from the WHO / UNICEF Joint-Monitoring Programme (JMP)
 
 * JMP WASH Data [Portal](https://washdata.org/data/household#!/)
 * World Resources Institute [Data](https://www.wri.org/data)
- 
-
-# Organization
-This repository is broken up into four folders: 
-
 
 # License
 
